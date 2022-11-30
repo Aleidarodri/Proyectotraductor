@@ -235,15 +235,14 @@ Para empezar para crear el archivo ".j"se tiene que hacer una visita a la cabeza
   ![3jas](https://user-images.githubusercontent.com/93956966/204693739-1fd56db1-5076-4ad4-ae14-6806fc283f04.png)
   Figura 3: Creaciond de archivo .j
   
-El segundo ejemplo fue la creacion del metodo if con impresion 
-sabemos que tiene que para ir  hacia un goto y un label, este caso en jasmine se utilizo un contador para que cada se hiciera la condicional 
+El segundo ejemplo fue la creacion del metodo if con impresion sabemos que tiene que para ir  hacia un goto y un label, este caso en jasmine se utilizo un contador para que cada se hiciera la condicional 
 
   ![ifjas](https://user-images.githubusercontent.com/93956966/204696049-90fcf09b-0fd3-4a75-abcc-1ebd963e5047.png)
   
   Figura 4:Codigo de condicional if en jasmine 
   
-La creacion del ciclo for,para la creación del cilo for ,sabemos que se tiene que ir al goto resultado + al actual con un contador  donde primero visita si la asignación es diferente a null,
-despues visita asiganacion o en caso de que no cumpla,esta visita a declaración.
+La creacion del ciclo for,para la creación del cilo for ,sabemos que se tiene que ir al goto resultado + al actual con un contador  donde primero visita si la asignación es diferente a null, despues visita asiganacion o en caso de que no cumpla,esta visita a declaración.
+
   ![forjas](https://user-images.githubusercontent.com/93956966/204697489-8a996922-3223-45c3-af64-21c280692d19.png)
   
   Figura 4: Codigo maquina para el ciclo for 
