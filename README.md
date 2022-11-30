@@ -1,4 +1,4 @@
-# Proyectotraductor
+# Proyecto traductor
 # Traductor
 
 Como sabemos un compilador es un pequeño programa informático,  que se encarga de traducir un el código fuente ,este es un 
