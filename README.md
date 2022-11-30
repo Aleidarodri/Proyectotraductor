@@ -1,5 +1,5 @@
 # Proyecto traductor
-# Traductor
+# Compilador
 
 Como sabemos un compilador es un pequeño programa informático,  que se encarga de traducir un el código fuente ,este es un 
 software que se encarga de traducir el programa hecho en lenguaje de programación, a un lenguaje de máquina que pueda ser 
